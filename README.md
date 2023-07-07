@@ -2,7 +2,7 @@
 
 💫 About Me:
 
-🔭 I’m currently working on Specdep<br>
+🔭 I’m currently working on LandPro<br>
 🌱 I’m currently learning on Stepik
 
 # 💻 Tech Stack:
